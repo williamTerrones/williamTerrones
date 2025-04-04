@@ -8,22 +8,11 @@
 
 ### 🌐 Encuéntrame en:
 
-<a href="https://www.tiktok.com/@williamterronesdev" target="_blank">
-  <img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=tiktok&logoColor=white" style="margin-right: 5px;margin-left:15px" />
-</a>
-<a href="https://www.instagram.com/williamterronesdev/" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" style="margin-right: 5px;" />
-</a>
-<a href="https://www.linkedin.com/in/william-terrones-b48223185/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" style="margin-right: 5px;" />
-</a>
-<a href="https://www.youtube.com/@williamterronesdev" target="_blank">
-  <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white" style="margin-right: 5px;" />
-</a>
-<a href="https://vsco.co/williamterrones/" target="_blank">
-  <img src="https://img.shields.io/badge/VSCO-black?style=for-the-badge&logo=vsco&logoColor=white" style="margin-right: 5px;" />
-</a>
-
+[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@williamterronesdev)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/williamterronesdev/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/william-terrones-b48223185/)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@williamterronesdev)
+[![VSCO](https://img.shields.io/badge/VSCO-black?style=for-the-badge&logo=vsco&logoColor=white)](https://vsco.co/williamterrones/)
 
 ---
 

@@ -1,8 +1,6 @@
 <h1 align="center">Hola 👋, soy William Terrones</h1>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0AE98C&center=true&vCenter=true&width=800&lines=Desarrollador+Web+Full+Stack;Apasionado+por+el+código+y+la+tecnología;Creando+y+compartiendo+contenido+en+redes+por+puro+hobby" alt="Typing SVG" />
-</a>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=24F76C&width=435&lines=Desarrollador+Web+Full+Stack;Apasionado+por+el+c%C3%B3digo+y+la+tecnolog%C3%ADa;Creando+y+compartiendo+contenido+en+redes+por+puro+hobby)](https://git.io/typing-svg)
 
 ---
 
